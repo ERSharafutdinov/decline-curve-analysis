@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td><img src="results/analytical_plots.png" alt="Аналитические графики" width="100%"/><br><em>Статистика по всем скважинам (R², выбросы, популярность методов).</em></td>
-    <td><img src="results/well_plots/well_10-01.png" alt="Пример скважины" width="100%"/><br><em>Пример обработки одной скважины.</em></td>
+    <td><img src="results/well_plots/well_8-01.png" alt="Пример скважины" width="100%"/><br><em>Пример обработки одной скважины.</em></td>
   </tr>
 </table>
 
